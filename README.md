@@ -24,6 +24,9 @@ The goal of this redesign is to enhance the usability, accessibility, and functi
 - HCI Principles
 - Nielsen Heuristics
 
+## 📫 Contact
+If you’d like to collaborate or give feedback, feel free to connect with me on [LinkedIn](www.linkedin.com/in/vijayasooriyan-kamarajah234).
+
 ## 🔗 Live Figma Design
 
 You can view the full Figma prototype here:  
